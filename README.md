@@ -1,4 +1,4 @@
-# Hi there 👋, I'm KRISHAN!![image](https://github.com/KrishanTCD/KrishanTCD/assets/146117329/34d5fffb-4634-4edd-bd57-65240c849054)
+# Hi there 👋, I'm KRISHAN!!
 ![image](https://github.com/KrishanTCD/KrishanTCD/assets/146117329/3a4392b0-3ae8-42e1-993e-51715e620ced)
 
 I'm an experienced engineer and aspiring Business Analyst with a passion for leveraging data to drive strategic business decisions. Currently pursuing a Master's in Business Analytics at Trinity College Dublin, my journey has been marked by a commitment to excellence and a proven track record in data-driven strategies.
