@@ -13,7 +13,7 @@ I'm an experienced engineer and aspiring Business Analyst with a passion for lev
 
 ### Data Science Intern, Junglee Games, Delhi
 
-- **Marketing Attribution Project:** Analyzed spending patterns, formulated a strategy for a 31% spending optimization using regression models ([https://www.linkedin.com/in/krishankant98/])).
+- **Marketing Attribution Project:** Analyzed spending patterns, formulated a strategy for a 3% spending optimization using regression models ([https://www.linkedin.com/in/krishankant98/])).
 - **Feature Store Creation:** Strengthened code accessibility by creating a feature store for the Data Science Team.
 - **GAIM Model Exploration:** Explored and implemented a Hand Quality Estimation model with 82% precision-recall.
 
