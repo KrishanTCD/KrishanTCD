@@ -1,12 +1,8 @@
-Here’s the updated and **expanded** `README.md` with **no GIFs or images**, and **detailed project descriptions** to better reflect your skills and achievements:
-
----
-
 # 👋 Hi there, I'm Krishan Kant
 
 I'm a **Data Professional** with 3+ years of hands-on experience building scalable ML systems, deploying analytics workflows, and translating data into actionable insights. I'm graduuated with a **MSc in Business Analytics at Trinity College Dublin (Top 2%)**. My experience spans **gaming, consultancy**, and **AI startups**, where I've consistently driven measurable improvements across marketing, finance, operations, and product domains.
 
----
+![image](https://github.com/KrishanTCD/KrishanTCD/assets/146117329/3a4392b0-3ae8-42e1-993e-51715e620ced)
 
 ## 🛠️ Technologies & Tools
 
