@@ -2,7 +2,7 @@
 
 I'm a **Data Professional** with 3+ years’ experience driving insights, efficiency gains, and $1M+ cost optimizations. **MSc. Business Analytics (Top 2%, Trinity College Dublin)**. Proficient in requirements gathering, KPI definition, SQL, Python, Tableau, Snowflake, and ETL automation. Strong in stakeholder engagement, predictive analytics, and data storytelling.
 
-![image](https://github.com/KrishanTCD/KrishanTCD/assets/146117329/3a4392b0-3ae8-42e1-993e-51715e620ced)
+![image](<img width="1335" height="396" alt="KRISH (1) 2" src="https://github.com/user-attachments/assets/3da9c843-2b10-423c-8d00-e7b0dcc2bfc1" />)
 
 ## 🛠️ Technologies & Tools
 
