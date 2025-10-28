@@ -1,10 +1,11 @@
-# 👋 Hi there, I'm Krishan Kant
+
+![KRISH (1) 2](https://github.com/user-attachments/assets/291ba13b-1c74-46d2-b420-121616bc1c3c)
+
+# Hi there, I'm Krishan Kant
 
 I'm a **Data Professional** with 3+ years’ experience driving insights, efficiency gains, and $1M+ cost optimizations. **MSc. Business Analytics (Top 2%, Trinity College Dublin)**. Proficient in requirements gathering, KPI definition, SQL, Python, Tableau, Snowflake, and ETL automation. Strong in stakeholder engagement, predictive analytics, and data storytelling.
 
-![image](<img width="1335" height="396" alt="KRISH (1) 2" src="https://github.com/user-attachments/assets/3da9c843-2b10-423c-8d00-e7b0dcc2bfc1" />)
-
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 **Languages & Libraries:** Python, R, SQL, TensorFlow, Scikit-learn, NumPy, Pandas, Streamlit
 **Cloud Platforms:** AWS (SageMaker, Lambda, S3, Athena, EC2), Snowflake
@@ -14,7 +15,7 @@ I'm a **Data Professional** with 3+ years’ experience driving insights, effici
 
 ---
 
-## 💼 Work Experience
+##  Work Experience
 
 ### **Junglee Games (Flutter Entertainment Inc.)** — *Data Analyst Intern, India*
 
@@ -38,9 +39,9 @@ I'm a **Data Professional** with 3+ years’ experience driving insights, effici
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### **🔎 GenAI Kitchen Intelligence System**
+### ** GenAI Kitchen Intelligence System**
 
 **May 2025 – Jun 2025**
 
@@ -48,7 +49,7 @@ I'm a **Data Professional** with 3+ years’ experience driving insights, effici
 *	Achieved **92% ingredient detection accuracy and 85% expiry extraction automation**, with recipe recommendations optimized via end-to-end ML pipelines and modular orchestration.
 
 
-### **📉 Stock Market Analysis**
+### ** Stock Market Analysis**
 
 **Jan 2025 – Feb 2025**
 
@@ -61,7 +62,7 @@ I'm a **Data Professional** with 3+ years’ experience driving insights, effici
 
 * Implemented anomaly detection models on **1.82 billion energy consumption data points**, identifying **$100K+** in potential cost savings through server load optimization.
 
-### **📊 Market Research & Customer Insights Dashboard**
+### ** Market Research & Customer Insights Dashboard**
 
 **Mar 2024 – Apr 2024**
 
@@ -70,7 +71,7 @@ I'm a **Data Professional** with 3+ years’ experience driving insights, effici
 
   [🔗 View Tableau Story](https://public.tableau.com/app/profile/krishan.kant7602/viz/Licious_Marketing_Research_Group1_Team6/Story1)
 
-### **🌐 Information Asymmetry on Social Media**
+### ** Information Asymmetry on Social Media**
 
 **Feb 2024 – Mar 2024**
 
@@ -80,7 +81,7 @@ I'm a **Data Professional** with 3+ years’ experience driving insights, effici
 
 ---
 
-## 🎓 Education
+##  Education
 
 * **MSc Business Analytics, Trinity College Dublin**
   *Grade 1:1 (Top 2%), Sep 2023 – Aug 2024*
@@ -92,14 +93,14 @@ I'm a **Data Professional** with 3+ years’ experience driving insights, effici
 
 ---
 
-## 🏆 Awards & Recognition
+##  Awards & Recognition
 
 * **Outstanding Client Impact Award**, JLL (2023 & 2021)
   Received **Outstanding Client Impact Award** and Recognition Note from Executive Team for delivering high-impact insights and exceeding stakeholder expectations at JLL.
 
 ---
 
-## 🤝 Let’s Connect
+##  Let’s Connect
 
 I’m always excited to collaborate on analytics, AI, or ML-driven projects — especially those at the intersection of business and data science.
 
